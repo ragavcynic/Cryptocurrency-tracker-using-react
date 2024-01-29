@@ -1,0 +1,4 @@
+.banner{
+    display:'flex',height:"40%" , flexDirection:"column", 
+            justifyContent:"center",textAlign:"center"
+}
